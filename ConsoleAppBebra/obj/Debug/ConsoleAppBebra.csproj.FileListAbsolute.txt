@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\ConsoleAppBebra\bin\Debug\ConsoleAppBebra.exe.config
+C:\Users\Student\source\repos\ConsoleAppBebra\bin\Debug\ConsoleAppBebra.exe
+C:\Users\Student\source\repos\ConsoleAppBebra\bin\Debug\ConsoleAppBebra.pdb
+C:\Users\Student\source\repos\ConsoleAppBebra\obj\Debug\ConsoleAppBebra.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ConsoleAppBebra\obj\Debug\ConsoleAppBebra.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ConsoleAppBebra\obj\Debug\ConsoleAppBebra.exe
+C:\Users\Student\source\repos\ConsoleAppBebra\obj\Debug\ConsoleAppBebra.pdb
